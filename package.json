@@ -1,0 +1,29 @@
+{
+  "name": "framev-spiderwarp",
+  "version": "1.0.0",
+  "description": "Contribution to frameV that represents a portal into the world of the spiders",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "http-server -o --cors"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NERDDISCO/frameV-spiderWarp.git"
+  },
+  "keywords": [
+    "NERDDISCO",
+    "frameV",
+    "spiderWarp",
+    "shader"
+  ],
+  "author": "NERDDISCO",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NERDDISCO/frameV-spiderWarp/issues"
+  },
+  "homepage": "https://github.com/NERDDISCO/frameV-spiderWarp#readme",
+  "devDependencies": {
+    "http-server": "^0.12.3"
+  }
+}
